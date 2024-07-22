@@ -1,4 +1,6 @@
 Quiz App
+Ranjan Alok
+
 
 <img src="https://github.com/user-attachments/assets/c51ac109-682f-4cee-848e-929eecf76530" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/d0334c5e-837a-44ef-aa25-3b5c6a4bba62" width="200" height="400">
