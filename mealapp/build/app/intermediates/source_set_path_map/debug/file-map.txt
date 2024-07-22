@@ -1,0 +1,12 @@
+com.example.mealapp-jetified-window-java-1.0.0-beta04-0 C:\Users\Ranjan Alok\.gradle\caches\transforms-3\43f0f7a8da99ce7f3d06f54e70644320\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mealapp-core-1.6.0-1 C:\Users\Ranjan Alok\.gradle\caches\transforms-3\57d2891dda6b6f5971418432f20e3ce6\transformed\core-1.6.0\res
+com.example.mealapp-jetified-window-1.0.0-beta04-2 C:\Users\Ranjan Alok\.gradle\caches\transforms-3\9705774bd5874e3ca31abbb9def0e54f\transformed\jetified-window-1.0.0-beta04\res
+com.example.mealapp-jetified-annotation-experimental-1.1.0-3 C:\Users\Ranjan Alok\.gradle\caches\transforms-3\e8534f4657b5f0d33d7e8bf7dc6542f2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mealapp-debug-4 E:\FlutterProject\Classes\mealapp\android\app\src\debug\res
+com.example.mealapp-main-5 E:\FlutterProject\Classes\mealapp\android\app\src\main\res
+com.example.mealapp-pngs-6 E:\FlutterProject\Classes\mealapp\build\app\generated\res\pngs\debug
+com.example.mealapp-resValues-7 E:\FlutterProject\Classes\mealapp\build\app\generated\res\resValues\debug
+com.example.mealapp-rs-8 E:\FlutterProject\Classes\mealapp\build\app\generated\res\rs\debug
+com.example.mealapp-mergeDebugResources-9 E:\FlutterProject\Classes\mealapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mealapp-mergeDebugResources-10 E:\FlutterProject\Classes\mealapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mealapp-merged_res-11 E:\FlutterProject\Classes\mealapp\build\app\intermediates\merged_res\debug
